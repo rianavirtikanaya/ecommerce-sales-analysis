@@ -53,6 +53,9 @@ Based on the data quality assessment, the dataset was cleaned and prepared for a
 ## Data Model
 
 A relational data model was established in MySQL after data cleaning and validation.
+
+![E-Commerce Data Model](dashboard/ecommerce-data-model.png)
+
 - `CustomerID` was defined as the primary key in the Customers table.
 - `ProductID` was defined as the primary key in the Products table.
 - `OrderID` was defined as the primary key in the cleaned Orders table.
