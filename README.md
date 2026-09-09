@@ -79,6 +79,8 @@ Detailed SQL queries are available in [`sql/analysis.sql`](sql/analysis.sql).
 
 An interactive Power BI dashboard was developed to consolidate the analysis into a single view of sales performance.
 
+![E-Commerce Sales Dashboard](dashboard/ecommerce-dashboard.png)
+
 The dashboard includes:
 - Key sales KPIs including total orders, units sold, gross sales, net sales, and total discount.
 - Sales trends over time.
