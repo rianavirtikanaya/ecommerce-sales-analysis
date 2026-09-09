@@ -25,7 +25,7 @@ The analysis uses four related e-commerce datasets:
 
 After data quality assessment and duplicate removal, the Orders table contained 50,000 cleaned records used for analysis.
 
-**Source:** Kaggle — E-Commerce Sales Data Analysis & EDA
+**Source:** [Kaggle — E-Commerce Sales Data Analysis & EDA](https://www.kaggle.com/datasets/erfan4524/e-commerce-sales-data-analysis-and-eda)
 
 ## Data Quality Assessment
 
